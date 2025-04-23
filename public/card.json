@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": "259",
+      "period": "monthly",
+      "features": ["Gym access", "Locker room use", "1 free class per month"],
+      "popular": false
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": "450",
+      "period": "monthly",
+      "features": ["Gym access", "Group fitness classes", "Sauna access", "2 guest passes"],
+      "popular": true
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": "700",
+      "period": "monthly",
+      "features": ["Full facility access", "Unlimited classes", "Free personal training session monthly", "Priority event booking"],
+      "popular": false
+    },
+    {
+      "id": 4,
+      "name": "Student Plan",
+      "price": "1120",
+      "period": "monthly",
+      "features": ["Gym access", "Group classes (limited)", "Valid student ID required"],
+      "popular": false
+    },
+    {
+      "id": 5,
+      "name": "Family Membership",
+      "price": "1230",
+      "period": "monthly",
+      "features": ["Up to 4 members", "Full facility access", "Family events", "Free kids classes"],
+      "popular": false
+    },
+    {
+      "id": 6,
+      "name": "Annual VIP Pass",
+      "price": "6990",
+      "period": "yearly",
+      "features": ["All-access pass", "Exclusive merchandise", "Free event entries", "Personalized fitness plan"],
+      "popular": true
+    }
+  ]
+  
